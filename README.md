@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Vivek Ojha</h1>
-<h3 align="center">A technophile and a 3rd year student, currently pursuing my bachelor of engineering in electronics and communication.🤓 Uniting the ideals of math with the efficiency of computers to solve problems in our complex world.😉 Interested in fiction novels and a keen guitarist.🎸</h3>
+<h1 align="center">नमस्ते 🙏 I'm Vivek Kumar Ojha</h1>
+<h3 align="center">A Technophile and a 3rd year student, currently pursuing my bachelor of engineering in electronics and communication.🤓 Uniting the ideals of math with the efficiency of computers to solve problems in our complex world.😉 Interested in fiction novels and a keen guitarist.🎸</h3>
 
-- 🔭 I’m currently working on [Contest-Finder](https://cf-contest-finder.herokuapp.com/https://cf-contest-finder.herokuapp.com/)
+- 🔭 I’m currently working on Contest-Finder (https://cf-contest-finder.herokuapp.com/https://cf-contest-finder.herokuapp.com/)
 
 - 🌱 I’m currently learning **Data structures and Algorithms**
 
