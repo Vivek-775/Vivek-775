@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vivek Ojha</h1>
 <h3 align="center">A technophile and a 3rd year student, currently pursuing my bachelor of engineering in electronics and communication.🤓 Uniting the ideals of math with the efficiency of computers to solve problems in our complex w,,,,,,,,,,,,,,,,,,,orld.😉 Interested in fiction novels and a keen guitarist.🎸</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek-775&label=Profile%20views&color=0e75b6&style=flat" alt="vivek-775" /> </p>
 
 - 🔭 I’m currently working on [Contest-Finder](https://cf-contest-finder.herokuapp.com/https://cf-contest-finder.herokuapp.com/)
 
@@ -33,3 +32,4 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=vivek-775&show_icons=true&title_color=7765d2&text_color=272525&bg_color=ffffff&locale=en" alt="vivek-775" />
   <img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivek-775&show_icons=true&locale=en&layout=compact" alt="vivek-775" />
   </div>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek-775&label=Profile%20views&color=0e75b6&style=flat" alt="vivek-775" /> </p>
