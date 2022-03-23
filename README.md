@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **vivekojha775@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3L3ovas](https://bit.ly/3L3ovas)
+- 📄 Know about my experiences [Resume](https://bit.ly/3L3ovas)
 
 - ⚡ Fun fact **I am a Guitarist**
 
